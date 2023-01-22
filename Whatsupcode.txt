@@ -1,6 +1,6 @@
 This is whatsup code
 
-Author:
+Author:Perungosh
 
 1. Profile page code
 
@@ -9,3 +9,7 @@ Author:
 3.Status page code
 
 4.Attachments
+
+Highlight the changes.
+
+Review the code
