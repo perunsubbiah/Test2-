@@ -1,0 +1,5 @@
+Information in this file contains are revesred.Decode the script.
+
+1.Reverse the string 
+
+2.Eleiminate the repitive things.
